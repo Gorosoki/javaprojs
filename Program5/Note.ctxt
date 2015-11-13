@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=inNote\ inBeats
+comment0.target=Note(java.lang.String,\ int)
+comment0.text=\r\n\ Contructor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNote()
+comment1.text=\r\n\ getNote\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ note\r\n
+comment2.params=
+comment2.target=int\ getBeats()
+comment2.text=\r\n\ getLength\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ the\ length\ of\ the\ note\r\n
+numComments=3

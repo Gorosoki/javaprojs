@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=inPercentStrikes\ inPercentSpares\ inPercentOpenFrames\ inFramesToBowl
+comment0.target=Bowler(double,\ double,\ double,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Bowler\r\n
+comment1.params=
+comment1.target=void\ bowlOneGame()
+comment1.text=\r\n\ bowlOneGame\ \ \ \ \ \ //simulates\ a\ game\ of\ bowling\r\n
+comment2.params=frame
+comment2.target=void\ openFrame(int)
+comment3.params=frame
+comment3.target=void\ spareFrame(int)
+comment4.params=frame
+comment4.target=void\ strikeFrame(int)
+comment5.params=inFramesToBowl
+comment5.target=void\ setFramesToBowl(int)
+comment6.params=inSparePercentage
+comment6.target=void\ setSparePercentage(double)
+comment7.params=inStrikePercentage
+comment7.target=void\ setStrikePercentage(double)
+comment8.params=inOpenFramePercentage
+comment8.target=void\ setOpenFramePercentage(double)
+numComments=9

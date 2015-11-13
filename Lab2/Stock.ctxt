@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=inName\ inShares\ inPrice
+comment0.target=Stock(java.lang.String,\ int,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Stock\n\ \n\ @param\ inName\ \ \ \ \ \ \ \ the\ name\ of\ the\ share,\ e.g.\ "Walmart"\n\ @param\ inShares\ \ \ \ \ \ the\ number\ of\ shares\ owned,\ e.g.\ "120"\n\ @param\ inPrice\ \ \ \ \ \ \ the\ price\ of\ the\ stock,\ e.g.\ "7.55"\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ getName\n\ \n\ @return\ \ \ \ \ \ returns\ the\ name\ of\ the\ stock\n
+comment2.params=
+comment2.target=int\ getShares()
+comment2.text=\n\ getShares\n\ \n\ @return\ \ \ \ \ \ returns\ the\ number\ of\ shares\ owned\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\n\ getPrice\n\ \n\ @return\ \ \ \ \ \ returns\ the\ price\ of\ the\ stock\n
+comment4.params=
+comment4.target=double\ getValue()
+comment4.text=\n\ getValue\n\ \n\ @return\ \ \ \ \ \ returns\ the\ price\ multiplied\ shares\ owned\n
+numComments=5

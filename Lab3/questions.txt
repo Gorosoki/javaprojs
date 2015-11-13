@@ -1,0 +1,6 @@
+CSCI 111, Lab 3, 8:00 A.M., Gavin Goroski
+
+1.TestBatsmen fails
+2.The answer recieved no longer matches the expected because the expected answers are rounded.
+3.Batsmen bomber = new Batsmen("kp",5,5,15,8,100)
+4.You cannot divide by zero

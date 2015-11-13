@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ newScore()
+comment0.text=\r\n\ newScore\r\n\ \r\n\ starts\ a\ newScore\ and\ clears\ the\ old\ score\r\n
+comment1.params=
+comment1.target=void\ addNote()
+comment1.text=\r\n\ addNote\r\n\ \r\n\ adds\ a\ note\ and\ length\ of\ a\ note\ to\ the\ existing\ score\r\n
+comment2.params=
+comment2.target=void\ repeatNotes()
+comment2.text=\r\n\ repeatNotes\r\n\ \r\n\ prints\ the\ score\ and\ also\ allows\ the\ repetition\ of\ notes\ from\ the\ current\ score\r\n
+comment3.params=
+comment3.target=void\ printScore()
+comment3.text=\r\n\ printScore\r\n\ \r\n\ prints\ the\ current\ Score\r\n
+comment4.params=
+comment4.target=void\ playSong()
+numComments=5

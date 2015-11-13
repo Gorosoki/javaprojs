@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=inOwner\ inGalleons\ inSickles\ inKnuts
+comment0.target=GringottsAccount(java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getOwner()
+comment1.text=\r\n\ getOwner\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ the\ name\ of\ the\ account\ owner\r\n
+comment2.params=
+comment2.target=int\ getGalleons()
+comment2.text=\r\n\ getgalleons\r\n\ \r\n\ @return\ \ \ \ \ returns\ the\ number\ of\ galleons\ in\ a\ given\ account\r\n
+comment3.params=
+comment3.target=int\ getSickles()
+comment3.text=\r\n\ getSickles\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ the\ number\ of\ sickles\ in\ a\ given\ account\r\n
+comment4.params=
+comment4.target=int\ getKnuts()
+comment4.text=\r\n\ getKnuts\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ the\ number\ of\ knuts\ in\ a\ given\ account\r\n
+comment5.params=
+comment5.target=int\ calculateMaximumGalleons()
+comment5.text=\r\n\ calculateMaximumGalleons\r\n\ \r\n\ @return\ \ \ \ \ \ returns\ the\ maximum\ number\ of\ galleons\ in\ an\ account\r\n
+comment6.params=
+comment6.target=long\ calculateMaximumSickles()
+comment6.text=\r\n\ calculateMaximumSickles\r\n\ \r\n\ @return\ \ \ \ \ returns\ the\ currency\ converted\ to\ only\ sickles\ for\ a\ given\ account\r\n
+comment7.params=
+comment7.target=long\ calculateMaximumKnuts()
+comment7.text=\r\n\ calculateMaxumumKnuts\r\n\ \r\n\ @return\ \ \ \ \ returns\ the\ currency\ converted\ to\ knuts\ for\ a\ given\ account\r\n
+numComments=8
